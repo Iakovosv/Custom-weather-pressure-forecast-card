@@ -1,0 +1,10 @@
+{
+  "domain": "custom_pressure_sensor",
+  "name": "Custom Pressure Sensor",
+  "version": "1.0.0",
+  "documentation": "https://example.com",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@Iakovosv"],
+  "iot_class": "local_polling"
+}
