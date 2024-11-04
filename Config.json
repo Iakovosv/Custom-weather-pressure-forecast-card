@@ -1,0 +1,5 @@
+{
+  "minPressure": 960,
+  "maxPressure": 1050,
+  "defaultUnit": "hPa"
+}
